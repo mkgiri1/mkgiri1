@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mkgiri1
 - 👀 I’m interested in Python, Bootstrap, HTML5, CSS, Information & Data Management
 - 🌱 I’m currently learning Jupyter & Django
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Information management, AI, NLP
 - 📫 How to reach me mukesh.kgiri@gmail.com
 
 <!---
