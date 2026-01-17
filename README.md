@@ -20,11 +20,4 @@ You can click the Preview link to take a look at your changes.
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/mkgiri1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkgiri1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141414" alt="Jose's GitHub Stats" />
-</a>
-<br>
-<br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkgiri1&layout=compact&card_width=443&show_icons=true&show_icons=true&theme=dark&hide_border=false"/><br>
